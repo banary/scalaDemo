@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<configuration>
+    <property>
+        <name>fs.default.name</name>
+        <value>com.banary.hdfs://localhost:8020</value>
+    </property>
+
+    <property>
+        <name>com.banary.mapred.job.tracker</name>
+        <value>localhost:8021</value>
+    </property>
+
+</configuration>
